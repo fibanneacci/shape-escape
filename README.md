@@ -3,7 +3,7 @@
 
 Xcode Playground for learning BFS/DFS through maze game.
 
-Includes tutorial pages for both algorithms, with mazes for practice.
+Includes tutorial pages for both algorithms, with extra mazes at the end for practice.
 
 Demo [here](https://www.youtube.com/watch?v=nSTv48n1BOo).
 
